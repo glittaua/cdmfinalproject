@@ -8,6 +8,7 @@ For this project I will be creating a new image in GIMP but figure out what I wa
 - use 3+ layers
 - choose good fonts to match what I am doing
 credit all assets
+
 **Lists of Tasks**
 -create repo for project
 -find photoshop/gimp worthy photos of celebrities
