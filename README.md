@@ -1,6 +1,7 @@
 # Final Project
 Final project for Composing Digital Media 2022
-For this project I will be creating a new image in GIMP but figure out what I want to do for my project.
+For this project I will be creating four new images in one and photoshop myself with some of my favorite celebrities. The chosen celebrities are Madison Beer, Post Malone, Jack Harlow, and Olivia Rodrigo.
+The final picture can bee found under finalprojectcdm.png
 
 **Baseline Goals**
 - use colors and arrangement to lead the viewers eyes
@@ -10,7 +11,7 @@ For this project I will be creating a new image in GIMP but figure out what I wa
 credit all assets
 
 **Lists of Tasks**
--create repo for project
--find photoshop/gimp worthy photos of celebrities
--find photoshop/gimp worthy images of myself
--create own visual assets
+- create repo for project
+- find photoshop/gimp worthy photos of celebrities
+- find photoshop/gimp worthy images of myself
+- create own visual assets
